@@ -37,7 +37,7 @@ These are tasks claimed to fail, according to Table 2
 | 2048-web  | ✅     | [link](https://chat.openai.com/share/24bd875e-64dc-48f5-8eb9-713c398535df) |   Not so pretty, but works.   |
 |  2048-py  | ✅     | [link](https://chat.openai.com/share/83818bfd-dec7-41a6-8edc-c65b1bd7a4c9) | pygame, the up and down keys are inverted, but works otherwise.  |
 |   snake   | ✅     | [link](https://chat.openai.com/share/46c4287c-a7fe-40b8-a1fa-de14d8d46df3)     |  pygame  |
-| tank-game-cont | ✅ | [link](https://chat.openai.com/share/5221714a-7251-4a84-b304-5fd4f72d5fb9) | I stitched code from multiple blocks. I did not manually write any line. Nevertheless, this included, sprites, sound, shooting & collision, death checks which weren't pretty, but functions mostly well. I manually added the png and wav files, but did no modifications to the code. |
+| tank-game | ✅ | [link](https://chat.openai.com/share/5221714a-7251-4a84-b304-5fd4f72d5fb9) | I stitched code from multiple blocks. I did not manually write any line. Nevertheless, this included, sprites, sound, shooting & collision, death checks which weren't pretty, but functions mostly well. I manually added the png and wav files, but did no modifications to the code. |
 |   brick   | ✅     | [link](https://chat.openai.com/share/22bbc1d1-bc94-447f-afc8-4304ab942c12)     |  pygame  |
 |  flappy   | ❌     | [link](https://chat.openai.com/share/ed67939a-14ee-4843-b2d5-08e3fcf2bcb3)     |  p5js, the game has *some* features but is incomplete |
 |   excel   | ✅     | [link](https://chat.openai.com/share/597463c1-8b0d-4fa2-a644-849aa68ad2db)     |    |
